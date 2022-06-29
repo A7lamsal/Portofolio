@@ -1,0 +1,172 @@
+
+----------------------------------
+SectionNo=1300	CourseCode=M251
+LectureTime=2	Date=Thu Apr 01 20:17:32 AST 2021
+Instructor:-
+Name=Sally	Id=112233	Age=32	isFemale=true	height=155	Email=s.almanasra@arabou.edu.sa	isEngineer=true
+Students:-
+Name=Ahlam	Id=121212	Age=20	isFemale=true	weight=50	AdmissionDate=Thu Apr 01 20:17:32 AST 2021	year=2019
+Name=Saleh	Id=131313	Age=22	isFemale=false	weight=55	AdmissionDate=Thu Apr 01 20:17:32 AST 2021	year=2019
+Name=Dalal	Id=1414141	Age=20	isFemale=true	weight=56	AdmissionDate=Thu Apr 01 20:17:32 AST 2021	year=2019
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1301	CourseCode=TM112
+LectureTime=2	Date=Thu Apr 01 20:17:32 AST 2021
+Instructor:-
+Name=Mohammed	Id=445566	Age=34	isFemale=false	height=170	Email=m.alzahrani@arabou.edu.sa	isEngineer=true
+Students:-
+Name=Ahlam	Id=121212	Age=20	isFemale=true	weight=50	AdmissionDate=Thu Apr 01 20:17:32 AST 2021	year=2019
+Name=Sara	Id=111111	Age=25	isFemale=true	weight=56	AdmissionDate=Thu Apr 01 20:17:32 AST 2021	year=2015
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1302	CourseCode=TM112
+LectureTime=2	Date=Thu Apr 01 20:17:32 AST 2021
+Instructor:-
+Name=Mohammed	Id=445566	Age=34	isFemale=false	height=170	Email=m.alzahrani@arabou.edu.sa	isEngineer=true
+Students:-
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1303	CourseCode=M251
+LectureTime=2	Date=Thu Apr 01 20:17:32 AST 2021
+Instructor:-
+Name=Sally	Id=112233	Age=32	isFemale=true	height=155	Email=s.almanasra@arabou.edu.sa	isEngineer=true
+Students:-
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1304	CourseCode=MT132
+LectureTime=2	Date=Thu Apr 01 20:17:32 AST 2021
+Instructor:-
+Name=Turki	Id=778899	Age=35	isFemale=false	height=173	Email=statmusk@gmail.com	isEngineer=true
+Students:-
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1305	CourseCode=MT132
+LectureTime=2	Date=Thu Apr 01 20:17:32 AST 2021
+Instructor:-
+Name=Turki	Id=778899	Age=35	isFemale=false	height=173	Email=statmusk@gmail.com	isEngineer=true
+Students:-
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1306	CourseCode=MT132
+LectureTime=2	Date=Thu Apr 01 20:17:32 AST 2021
+Instructor:-
+Name=Turki	Id=778899	Age=35	isFemale=false	height=173	Email=statmusk@gmail.com	isEngineer=true
+Students:-
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1307	CourseCode=TM112
+LectureTime=2	Date=Thu Apr 01 20:17:32 AST 2021
+Instructor:-
+Name=Mohammed	Id=445566	Age=34	isFemale=false	height=170	Email=m.alzahrani@arabou.edu.sa	isEngineer=true
+Students:-
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1301	CourseCode=M251
+LectureTime=2	Date=Thu Apr 01 20:29:16 AST 2021
+Instructor:-
+Name=Sally	Id=112233	Age=32	isFemale=true	height=155	Email=s.almanasra@arabou.edu.sa	isEngineer=true
+Students:-
+Name=Turki	Id=20	Age=20	isFemale=false	weight=85	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Saleh	Id=14	Age=20	isFemale=false	weight=55	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1309	CourseCode=M251
+LectureTime=3	Date=Thu Apr 01 20:29:16 AST 2021
+Instructor:-
+Name=Sally	Id=112233	Age=32	isFemale=true	height=155	Email=s.almanasra@arabou.edu.sa	isEngineer=true
+Students:-
+Name=Ahlam	Id=10	Age=20	isFemale=true	weight=50	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Turki	Id=20	Age=20	isFemale=false	weight=85	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Wafa	Id=17	Age=20	isFemale=true	weight=60	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1303	CourseCode=M131
+LectureTime=1	Date=Thu Apr 01 20:29:16 AST 2021
+Instructor:-
+Name=Mohammed	Id=445566	Age=34	isFemale=false	height=170	Email=m.alzahrani@arabou.edu.sa	isEngineer=true
+Students:-
+Name=Sara	Id=19	Age=20	isFemale=true	weight=62	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Turki	Id=20	Age=20	isFemale=false	weight=85	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1304	CourseCode=M132
+LectureTime=1	Date=Thu Apr 01 20:29:16 AST 2021
+Instructor:-
+Name=Turki	Id=778899	Age=35	isFemale=false	height=173	Email=statmusk@gmail.com	isEngineer=true
+Students:-
+Name=Ahlam	Id=10	Age=20	isFemale=true	weight=50	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Turki	Id=20	Age=20	isFemale=false	weight=85	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1308	CourseCode=M131
+LectureTime=1	Date=Thu Apr 01 20:29:16 AST 2021
+Instructor:-
+Name=Mohammed	Id=445566	Age=34	isFemale=false	height=170	Email=m.alzahrani@arabou.edu.sa	isEngineer=true
+Students:-
+Name=Osama	Id=15	Age=20	isFemale=false	weight=65	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Sara	Id=19	Age=20	isFemale=true	weight=62	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Turki	Id=20	Age=20	isFemale=false	weight=85	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Saleh	Id=14	Age=20	isFemale=false	weight=55	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1305	CourseCode=M131
+LectureTime=1	Date=Thu Apr 01 20:29:16 AST 2021
+Instructor:-
+Name=Mohammed	Id=445566	Age=34	isFemale=false	height=170	Email=m.alzahrani@arabou.edu.sa	isEngineer=true
+Students:-
+Name=Ahlam	Id=10	Age=20	isFemale=true	weight=50	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Turki	Id=20	Age=20	isFemale=false	weight=85	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Saleh	Id=14	Age=20	isFemale=false	weight=55	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+Name=Wafa	Id=17	Age=20	isFemale=true	weight=60	AdmissionDate=Thu Apr 01 20:29:16 AST 2021	year=2019
+
+----------------------------------
+
+
+----------------------------------
+SectionNo=1307	CourseCode=M131
+LectureTime=1	Date=Thu Apr 01 20:29:16 AST 2021
+Instructor:-
+Name=Mohammed	Id=445566	Age=34	isFemale=false	height=170	Email=m.alzahrani@arabou.edu.sa	isEngineer=true
+Students:-
+
+----------------------------------
+

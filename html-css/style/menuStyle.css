@@ -1,0 +1,171 @@
+#label{
+    background-color: white;
+    height: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    position: fixed;
+    z-index: 1;
+    right: 0;
+    left: 0;
+    box-shadow: 1px 1px 5px 2px rgb(194, 192, 192);
+}
+#box{
+    
+    position: relative;
+    left: 10px;
+    
+}
+#catering{
+    padding:14px 0 14px 20px;
+    display: inline-block;
+    
+}
+#About{
+    padding: 14px 0 14px 60%;
+    display: inline-block;
+}
+#Le{
+    position: relative;
+    top: 90%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    left: 30px;
+}
+.about{
+    padding:14px 0 14px 20px;
+    display: inline-block;
+}
+.container{
+    margin: auto;
+    width: 950px;
+    padding: 30px 0;
+    display: block;
+}
+#img{
+    
+    height: 600px;
+    width: auto;
+    display: inline-block;
+    width: 50%;
+    
+}
+
+#para{
+    display: inline-block;
+    width: 49%;
+    position: relative;
+    bottom: 120px;
+}
+#heading{
+    text-align: center;
+    position: relative;
+    bottom: 25px;
+    font-weight: normal;
+}
+#tittle{
+    text-align: center;
+    margin: 15px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#body{
+    position: relative;
+    left: 15px;
+    padding: 10px;
+    line-height: 25px;
+    margin: 0;
+}
+#conclusion{
+    position: relative;
+    left: 15px;
+    padding: 10px;
+    line-height: 25px;
+    color: rgb(172, 172, 172);
+    font-weight: lighter;
+    margin: 0;
+}
+.container2{
+    margin: auto;
+    width: 1000px;
+    padding: 30px 0;
+    display: block;
+}
+#right{
+    display: inline-block;
+    width: 50%;
+    position: relative;
+    bottom: 100px;
+}
+#img2{
+    height: 650px;
+    width: auto;
+    display: inline-block;
+    width: 49%;
+}
+#menu{
+    text-align: center;
+    position: relative;
+    bottom: 25px;
+    font-weight: normal;
+}
+.name{  
+    
+    font-weight: normal;
+    padding: 10px;
+    margin: 0;
+}
+.price{
+    font-weight: lighter;
+    font-size: small;
+    color: rgb(66, 66, 66);
+}
+#container3{
+    width: 1000px;
+    margin: auto;
+}
+#contact{
+    font-weight: normal;
+    position: relative;
+    
+}
+#intro{
+    font-weight: bold;
+    color: rgb(122, 122, 240);
+}
+.input{
+    width: 96%;
+    padding: 5px;
+    margin: 2px;
+    border-style: hidden hidden groove hidden;
+    border-color: aliceblue;
+    height: 60px;
+    top: 30px;
+    position: relative;
+}
+#submit{
+    padding: 10px;
+    margin: 20px 0;
+    position: relative;
+    top: 50px;
+    border-style: hidden;
+    
+}
+.intro1{
+    padding: 5px;
+    position: relative;
+    top: 40px;
+   
+}
+#sign{
+    text-align: center;
+}
+#box2{
+    background-color:rgb(228, 232, 236);
+    padding: 50px;
+    position: relative;
+    top: 50px;
+}
+#season{
+    background-color:rgb(228, 232, 236);
+    
+}

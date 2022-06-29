@@ -1,0 +1,174 @@
+SectionNo=1301
+CourseCode=M130
+Inst:-
+Name=Sally
+Id=1122
+Age=30
+isFemale=true
+height=130
+isEngineer=true
+Students:-
+[Name=S1
+Id=145
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S2
+Id=146
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S3
+Id=147
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S4
+Id=148
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S5
+Id=149
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S6
+Id=150
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019]
+SectionNo=1309
+CourseCode=M131
+Inst:-
+Name=Sally
+Id=1122
+Age=30
+isFemale=true
+height=130
+isEngineer=true
+Students:-
+[Name=S1
+Id=145
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S2
+Id=146
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S3
+Id=147
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S4
+Id=148
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S5
+Id=149
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S6
+Id=150
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019]
+SectionNo=1304
+CourseCode=M130
+Inst:-
+Name=Sally
+Id=1122
+Age=30
+isFemale=true
+height=130
+isEngineer=true
+Students:-
+[]
+SectionNo=1305
+CourseCode=M131
+Inst:-
+Name=Sally
+Id=1122
+Age=30
+isFemale=true
+height=130
+isEngineer=true
+Students:-
+[]
+SectionNo=1303
+CourseCode=M131
+Inst:-
+Name=Sally
+Id=1122
+Age=30
+isFemale=true
+height=130
+isEngineer=true
+Students:-
+[Name=S1
+Id=145
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S2
+Id=146
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S3
+Id=147
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S4
+Id=148
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S5
+Id=149
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019, Name=S6
+Id=150
+Age=20
+isFemale=true
+weight=50
+AdmissionDate=Sat Mar 27 22:49:25 AST 2021
+year=2019]
+SectionNo=1308
+CourseCode=M131
+Inst:-
+Name=Sally
+Id=1122
+Age=30
+isFemale=true
+height=130
+isEngineer=true
+Students:-
+[]
